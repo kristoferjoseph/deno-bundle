@@ -1,2 +1,0 @@
-# deno-bundle
-Begin app
